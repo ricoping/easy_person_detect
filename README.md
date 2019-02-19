@@ -17,3 +17,5 @@ opcv.isPerson(person.jpg) # True
 opcv.isPerson(not_person.jpg) # False
 ~~~
 
+![person](https://user-images.githubusercontent.com/47266653/53034718-24a58e80-34b7-11e9-919d-18fd40bc2e0b.jpg)
+![not_person](https://user-images.githubusercontent.com/47266653/53034723-2707e880-34b7-11e9-95fd-d321f6e34572.jpg)
